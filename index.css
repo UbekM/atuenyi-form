@@ -150,7 +150,7 @@ hr {
     .main-container {
         margin-top: 10px;
         margin-bottom: 10px;
-        min-width: 80%;
+        min-width: 90%;
         border: 3.8px solid #3B75FA;
         padding: 19px;
     }
@@ -191,9 +191,9 @@ hr {
 
 @media (min-width: 427px) and (max-width: 1023px) { 
     .main-container {
-        margin-top: 10px;
-        margin-bottom: 10px;
-        min-width: 70%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        min-width: 90%;
         border: 3.8px solid #3B75FA;
         padding: 19px;
     }
